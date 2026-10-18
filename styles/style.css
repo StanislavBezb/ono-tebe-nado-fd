@@ -63,7 +63,7 @@
   font-style: normal;
   font-size: 18px;
   gap: 5px;
-  width: 240px;
+  max-width: 240px;
 }
 
 .cover {

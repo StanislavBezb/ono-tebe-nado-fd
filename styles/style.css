@@ -237,10 +237,6 @@
   margin-right: 24px;
 }
 
-.about__column {
-
-}
-
 .about__logo {
   display: flex;
   justify-content: center;
@@ -286,10 +282,6 @@
   margin: 0 auto auto 50px;
 }
 
-.footer__menu {
-
-}
-
 .footer__menu-list {
   display: flex;
   flex-direction: column;
@@ -325,10 +317,6 @@
 
 .footer__social-list-item {
   list-style-type: none;
-}
-
-.footer__social-link {
-
 }
 
 .footer__social-icon {

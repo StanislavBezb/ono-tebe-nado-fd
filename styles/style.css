@@ -98,30 +98,23 @@
   z-index: 1;
 }
 
-.aligned-text_left {
+.cover__title-text {
   color: white;
   font-size: 100px;
   font-family: Raleway, Arial, Helvetica, sans-serif;
   text-transform: uppercase;
   display: flex;
+}
+
+.aligned-text_left {
   justify-content: start;
 }
 
 .aligned-text_center {
-  color: white;
-  font-size: 100px;
-  font-family: Raleway, Arial, Helvetica, sans-serif;
-  text-transform: uppercase;
-  display: flex;
   justify-content: center;
 }
 
 .aligned-text_right {
-  color: white;
-  font-size: 100px;
-  font-family: Raleway, Arial, Helvetica, sans-serif;
-  text-transform: uppercase;
-  display: flex;
   justify-content: end;
 }
 
